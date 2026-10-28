@@ -1,0 +1,166 @@
+{
+  "name": "LibreTV 影视源合集（合并版）",
+  "version": 2,
+  "exportedAt": 1793162165037,
+  "notes": [
+    "番剧 · mutefun 需要支持 Kazumi 规则适配的改版 LibreTV。",
+    "第三方源的画质、广告与可用性以实际播放为准；闪电源目前暂不支持搜索。",
+    "仅分享公开接口清单，不代表拥有这些第三方接口或视频内容的版权。",
+    "已附加从用户提供的 TVBox 配置中识别出的候选源。",
+    "TVBox csp_*、Python、JS Spider 等源需要对应引擎，未作为普通 CMS API 自动加入。",
+    "接口均为候选清单，未逐一验证可用性或 LibreTV 播放兼容性。"
+  ],
+  "sources": [
+    {
+      "name": "电影天堂",
+      "url": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "detail": "http://caiji.dyttzyapi.com",
+      "isAdult": false
+    },
+    {
+      "name": "光速资源",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod",
+      "detail": "https://api.guangsuapi.com",
+      "isAdult": false
+    },
+    {
+      "name": "红牛资源",
+      "url": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "detail": "https://www.hongniuzy.com",
+      "isAdult": false
+    },
+    {
+      "name": "极速资源",
+      "url": "https://jszyapi.com/api.php/provide/vod",
+      "detail": "https://jszyapi.com",
+      "isAdult": false
+    },
+    {
+      "name": "魔都资源",
+      "url": "https://www.mdzyapi.com/api.php/provide/vod",
+      "detail": "https://www.moduzy.net",
+      "isAdult": false
+    },
+    {
+      "name": "U酷影视",
+      "url": "https://api.ukuapi88.com/api.php/provide/vod",
+      "detail": "https://www.ukuzy.com",
+      "isAdult": false
+    },
+    {
+      "name": "豪华资源",
+      "url": "https://hhzyapi.com/api.php/provide/vod/at/json",
+      "detail": "https://www.huohuzy.com",
+      "isAdult": false
+    },
+    {
+      "name": "虎牙资源",
+      "url": "https://www.huyaapi.com/api.php/provide/vod",
+      "detail": "https://www.huyaapi.com",
+      "isAdult": false
+    },
+    {
+      "name": "番剧 · mutefun",
+      "url": "https://www.2kdm.com/voddetail/",
+      "detail": "https://www.mutedm.com",
+      "isAdult": false
+    },
+    {
+      "name": "闪电资源（暂不支持搜索）",
+      "url": "http://sdzyapi.com/api.php/provide/vod",
+      "detail": "http://sdzyapi.com",
+      "isAdult": false
+    },
+    {
+      "name": "吉吉资源",
+      "url": "https://caiji.jjzyapi.com/api.php/provide/vod",
+      "detail": "https://www.jjzy10.tv",
+      "isAdult": false
+    },
+    {
+      "name": "百度采集",
+      "url": "https://api.apibdzy.com/api.php/provide/vod",
+      "detail": "https://api.apibdzy.com",
+      "isAdult": false
+    },
+    {
+      "name": "暴风直连",
+      "url": "https://bfzyapi.com/api.php/provide/vod",
+      "detail": "https://bfzyapi.com",
+      "isAdult": false
+    },
+    {
+      "name": "量子直连",
+      "url": "https://cj.lziapi.com/api.php/provide/vod",
+      "detail": "https://cj.lziapi.com",
+      "isAdult": false
+    },
+    {
+      "name": "非凡直连",
+      "url": "http://ffzy.tv/api.php/provide/vod",
+      "detail": "http://ffzy.tv",
+      "isAdult": false
+    },
+    {
+      "name": "360资源",
+      "url": "https://360zy.com/api.php/provide/vod",
+      "detail": "https://360zy.com",
+      "isAdult": false
+    },
+    {
+      "name": "爱奇艺资源",
+      "url": "https://iqiyizyapi.com/api.php/provide/vod",
+      "detail": "https://iqiyizyapi.com",
+      "isAdult": false
+    },
+    {
+      "name": "猫眼资源",
+      "url": "https://api.maoyanapi.top/api.php/provide/vod",
+      "detail": "https://api.maoyanapi.top",
+      "isAdult": false
+    },
+    {
+      "name": "速播资源",
+      "url": "https://subocj.com/api.php/provide/vod",
+      "detail": "https://subocj.com",
+      "isAdult": false
+    },
+    {
+      "name": "最大资源",
+      "url": "https://api.zuidapi.com/api.php/provide/vod",
+      "detail": "https://api.zuidapi.com",
+      "isAdult": false
+    },
+    {
+      "name": "豆豆资源",
+      "url": "https://api.ddapi.cc/api.php/provide/vod",
+      "detail": "https://api.ddapi.cc",
+      "isAdult": false
+    },
+    {
+      "name": "无尽资源",
+      "url": "https://api.wujinapi.com/api.php/provide/vod",
+      "detail": "https://api.wujinapi.com",
+      "isAdult": false
+    },
+    {
+      "name": "金鹰资源",
+      "url": "https://jinyingzy.com/api.php/provide/vod",
+      "detail": "https://jinyingzy.com",
+      "isAdult": false
+    },
+    {
+      "name": "飘零资源",
+      "url": "https://p2100.net/api.php/provide/vod",
+      "detail": "https://p2100.net",
+      "isAdult": false
+    },
+    {
+      "name": "林中小屋 · 木机",
+      "url": "https://mujiziyuan00.com/api.php/provide/vod",
+      "detail": "https://mujiziyuan00.com",
+      "isAdult": false
+    }
+  ],
+  "liveSources": []
+}
